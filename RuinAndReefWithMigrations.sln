@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RuinAndReef", "src\RuinAndReef\RuinAndReef.xproj", "{204B5568-0D3F-492B-8CB7-1A997358CCEA}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RuinAndReefWithMigrations", "src\RuinAndReef\RuinAndReefWithMigrations.xproj", "{204B5568-0D3F-492B-8CB7-1A997358CCEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
